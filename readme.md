@@ -1,3 +1,12 @@
+The original source github : https://github.com/Elecrow-RD/CrowPanel-Advanced-7inch-ESP32-P4-HMI-AI-Display-1024x600-IPS-Touch-Screen/tree/master/example/V1.1/idf-code is not downloadable hence creating this
+small code for testing the following for such nice hardware:
+1. Touch Display
+2. Audio input via microphone
+3. Speaker test
+
+This is just a Arduino IDE build and will add idf build soon....Enjoy
+
+
 ### Touchscreen owner login (Arduino IDE)
 
 This sketch uses the supplied LVGL 8.3.11 library, ESP32_Display_Panel 1.0.4,
